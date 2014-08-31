@@ -1,4 +1,4 @@
 Blog
 ====
 
-Blog Application for MOOC
+Blog Application developed using Ruby on Rails.
